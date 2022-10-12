@@ -1,0 +1,14 @@
+#apple
+.DS_Store
+
+*.exe
+*.exe~
+
+# go proj
+go.sum
+
+
+
+# pwd
+
+000.txt
